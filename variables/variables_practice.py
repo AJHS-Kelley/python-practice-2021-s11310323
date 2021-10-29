@@ -1,4 +1,4 @@
-# Variables practice, david mosely, 10/29/21 2.42pm, verison 0.2  
+# Variables practice, david mosely, 10/29/21 2.45pm, verison 0.3  
 
 # three common types of data 
 
@@ -8,3 +8,5 @@ death_cry = "curse you , bill! I hate youu!"
 # line 7 is a string -- collection of letters/numbers/other chars.
 
 print (lives_remaining) 
+print (forty_time)
+print (death_cry)
